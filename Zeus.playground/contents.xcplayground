@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='Page0'/>
+        <page name='Page1'/>
+        <page name='Page2'/>
+        <page name='Page3'/>
+        <page name='Scene 3-A'/>
+        <page name='Scene 3-B'/>
+        <page name='Page4'/>
+        <page name='Page5'/>
+        <page name='End_Scene'/>
+    </pages>
+</playground>
